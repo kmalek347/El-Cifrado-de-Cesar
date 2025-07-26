@@ -21,7 +21,7 @@ def recorrer(opcion, que):
 bucle = 1
 while(bucle !=0):
      
-     #abc = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","ñ","o","p","q","r","s","t","u","v","w","x","y","z",","," "]
+   
      mensaje=[]
      print("1. Cifrar codigo\n2. Descifrar codigo\n0. Salir")
      
